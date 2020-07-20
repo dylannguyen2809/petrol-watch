@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e967141320ef1ff74eededb0aa20d44b",
+    "revision": "ef2be05fa67fde5491704ac35218a4f5",
     "url": "/petrol-watch/index.html"
   },
   {
-    "revision": "e504e6051567926f6bbb",
+    "revision": "60683d9f0b27814e3bae",
     "url": "/petrol-watch/static/css/main.2b814a55.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/petrol-watch/static/js/2.a72976a9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e504e6051567926f6bbb",
-    "url": "/petrol-watch/static/js/main.3d9d7f32.chunk.js"
+    "revision": "60683d9f0b27814e3bae",
+    "url": "/petrol-watch/static/js/main.a8dbf344.chunk.js"
   },
   {
     "revision": "340481722d9bf25f055e",

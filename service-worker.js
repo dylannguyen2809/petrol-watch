@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/petrol-watch/precache-manifest.3298f62d061c609f35b66d2501e197dd.js"
+  "/petrol-watch/precache-manifest.ef5c12bca5e60fa0e587b9a98d947e35.js"
 );
 
 self.addEventListener('message', (event) => {
